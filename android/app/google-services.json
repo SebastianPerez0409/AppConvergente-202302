@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1009052657286",
+    "project_id": "pushnotidac",
+    "storage_bucket": "pushnotidac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009052657286:android:4e6991aa5bfdb1f7815307",
+        "android_client_info": {
+          "package_name": "com.example.iniciosesion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLG7QwawO1JNXIb2RFJ_WYg9RezsSiiTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -14,11 +14,13 @@ dependencies:
   flutter:
     sdk: flutter
   mysql1: ^0.20.0
-
-
-
   cupertino_icons: ^1.0.2
   http: any
+  fluttertoast: ^8.2.2
+  intl: ^0.18.1
+  firebase_messaging: ^14.6.8
+  firebase_core_platform_interface: ^4.5.1
+
 
 dev_dependencies:
   flutter_test:
@@ -33,3 +35,12 @@ flutter:
   uses-material-design: true
   assets:
         - assets/imagenes/
+  fonts:
+        - family: Poppins
+          fonts:
+            - asset: assets/fonts/Poppins-Bold.ttf
+            - asset: assets/fonts/Poppins-Medium.ttf
+            - asset: assets/fonts/Poppins-Regular.ttf
+            - asset: assets/fonts/Poppins-SemiBold.ttf
+            - asset: assets/fonts/Poppins-Thin.ttf
+            
